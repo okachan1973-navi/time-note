@@ -1,0 +1,33 @@
+﻿# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs & Temporary files
+*.log
+*.tmp
+*.bak
+scratch/
+
+# Environment / Credentials
+.env
+.env.*
+
+# Node / Dependencies
+node_modules/
+
+# Local Documentation & Prompts (Local only, not for public repo)
+HANDOFF.txt
+GEMINI_IMPLEMENTATION_PROMPT.txt
+docs/
+implementation_plan.md
+walkthrough.md
